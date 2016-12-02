@@ -1,0 +1,28 @@
+/* CSS Modifiers */
+
+/* Body: There is a linear gradiente with the merger of two colors */
+body {
+background: linear-gradient(#051118, #681B6C);
+}
+
+/* The text with its modifiers according to the order: 
+font family, size, width, text transform, text alignment, 
+padding to separate the text of the top of the page and font color */
+h1 {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 2.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+	margin-top: 300px;
+	color: #fff;
+}
+h2 {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+	
+	color: #fff;	
+}
